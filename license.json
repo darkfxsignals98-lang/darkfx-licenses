@@ -2,9 +2,21 @@
   "product": "AlgoMasterGold EA",
   "developer": "DarkFX Signals",
   "telegram": "@darkfx100",
-  "expiry": "2025-12-31 23:59",
-  "valid_keys": [
-    "DFX-ALGOMASTER-2025",
-    "DFX-VIP-GOLD-2025"
+  "licenses": [
+    {
+      "key": "DFX-ALGOMASTER-1M-2025-9K7V",
+      "expiry": "2025-12-08 23:59",
+      "notes": "1 month subscription"
+    },
+    {
+      "key": "DFX-ALGOMASTER-12M-2025-R4ZQ",
+      "expiry": "2026-11-08 23:59",
+      "notes": "12 months subscription"
+    },
+    {
+      "key": "DFX-ALGOMASTER-24M-2025-H2JP",
+      "expiry": "2027-11-08 23:59",
+      "notes": "24 months subscription"
+    }
   ]
 }
